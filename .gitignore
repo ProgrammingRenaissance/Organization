@@ -1,0 +1,11 @@
+Administration/
+Collaborators/
+Configuration/
+include/
+lib/
+lib64
+Library/
+Products/
+.vscode/
+pyvenv.cfg
+bin/
